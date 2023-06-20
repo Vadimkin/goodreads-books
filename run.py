@@ -1,6 +1,7 @@
 import json
 import logging
 import pathlib
+import re
 from dataclasses import dataclass
 from datetime import datetime
 
@@ -37,6 +38,11 @@ def process_bookshelf_page(page_content: BeautifulSoup) -> list[BookReview]:
         title = row.find('td', class_='field title').find('a').text.strip()
         author = row.find('td', class_='field author').find('a').text
         cover_url = row.find('img')["src"]
+        if cover_url:
+            # Replace small cover with big one
+            # https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675866212l/106136930._SY75_.jpg
+            pattern = r"\._S[YX]\d+_\."
+            cover_url = re.sub(pattern, ".", cover_url)
         rating = len(row.find('td', class_='field rating').find_all('span', class_='p10'))  # 5 stars = 5 spans
 
         date_started = row.find('td', class_='field date_started').find('span', class_='date_started_value')
@@ -121,7 +127,7 @@ def process():
 
     with open(books_output_json_file, 'w', encoding='utf-8') as f:
         books_dict = {"books": books}
-        json_str = json.dumps(books_dict, cls=EnhancedJSONEncoder, ensure_ascii=False)
+        json_str = json.dumps(books_dict, cls=EnhancedJSONEncoder, ensure_ascii=False, indent=2)
         f.write(json_str)
 
     logger.info("Done!")
