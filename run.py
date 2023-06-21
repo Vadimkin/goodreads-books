@@ -16,7 +16,8 @@ logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 
 goodreads_base_url = "https://www.goodreads.com"
-goodreads_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=read"
+goodreads_read_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=read"
+goodreads_currently_reading_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=currently-reading"
 
 read_books_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" / "read.json"
 top_rated_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" / "top_rated.json"
@@ -27,6 +28,7 @@ class BookReview:
     title: str
     author: str
     cover_url: str
+    review_url: str
     rating: int
     date_started: str = None
     date_read: str = None
@@ -39,6 +41,10 @@ def process_bookshelf_page(page_content: BeautifulSoup) -> list[BookReview]:
     for row in books_table.find_all('tr')[1:]: # skip header
         title = row.find('td', class_='field title').find('a').text.strip()
         author = row.find('td', class_='field author').find('a').text
+        if author:
+            # swap first and last name
+            author = " ".join(reversed(author.split(","))).strip()
+
         cover_url = row.find('img')["src"]
         if cover_url:
             # Replace small cover with big one
@@ -59,13 +65,18 @@ def process_bookshelf_page(page_content: BeautifulSoup) -> list[BookReview]:
             # Треба прибрати книжки з Шакалячого експреса :)
             continue
 
+        review_url = row.find('td', class_='field actions').find('a')["href"]
+        if review_url:
+            review_url = f"{goodreads_base_url}{review_url}"
+
         book = BookReview(
             title=title,
             author=author,
             cover_url=cover_url,
             rating=rating,
             date_started=date_started,
-            date_read=date_read
+            date_read=date_read,
+            review_url=review_url
         )
 
         books.append(book)
@@ -122,7 +133,10 @@ def process():
     """
     Process books from goodreads and write them to file
     """
-    books = parse_books(goodreads_first_page_url)
+    books = []
+
+    books.extend(parse_books(goodreads_currently_reading_first_page_url))
+    books.extend(parse_books(goodreads_read_first_page_url))
 
     logger.info("Books on goodreads: %s", len(books))
     logger.info("Writing books to file...")
