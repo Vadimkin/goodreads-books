@@ -52,7 +52,8 @@ def process_bookshelf_page(page_content: BeautifulSoup) -> list[BookReview]:
         if cover_url:
             # Replace small cover with big one
             # https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675866212l/106136930._SY75_.jpg
-            pattern = r"\._S[YX]\d+_\."
+            # https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566473431l/52283963._SX50_SY75_.jpg
+            pattern = r"\._S[YX]\d+(_S[YX]\d+)?_\."
             cover_url = re.sub(pattern, ".", cover_url)
         rating = len(row.find('td', class_='field rating').find_all('span', class_='p10')) or None  # 5 stars = 5 spans
 
