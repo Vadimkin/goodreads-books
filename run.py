@@ -29,17 +29,20 @@ class BookReview:
     author: str
     cover_url: str
     review_url: str
-    rating: int
+    rating: int | None = None
     date_started: str = None
     date_read: str = None
+    is_reading_now: bool = False
 
 
 def process_bookshelf_page(page_content: BeautifulSoup) -> list[BookReview]:
     books_table = page_content.find('table', id='books')
     books = []
 
+    is_current_reading_shelf = "Currently Reading" in page_content.find('span', class_='h1Shelf').text
+
     for row in books_table.find_all('tr')[1:]: # skip header
-        title = row.find('td', class_='field title').find('a').text.strip()
+        title = row.find('td', class_='field title').find('a').text.strip().replace("\n", " ")
         author = row.find('td', class_='field author').find('a').text
         if author:
             # swap first and last name
@@ -51,7 +54,7 @@ def process_bookshelf_page(page_content: BeautifulSoup) -> list[BookReview]:
             # https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675866212l/106136930._SY75_.jpg
             pattern = r"\._S[YX]\d+_\."
             cover_url = re.sub(pattern, ".", cover_url)
-        rating = len(row.find('td', class_='field rating').find_all('span', class_='p10'))  # 5 stars = 5 spans
+        rating = len(row.find('td', class_='field rating').find_all('span', class_='p10')) or None  # 5 stars = 5 spans
 
         date_started = row.find('td', class_='field date_started').find('span', class_='date_started_value')
         if date_started:
@@ -76,7 +79,8 @@ def process_bookshelf_page(page_content: BeautifulSoup) -> list[BookReview]:
             rating=rating,
             date_started=date_started,
             date_read=date_read,
-            review_url=review_url
+            review_url=review_url,
+            is_reading_now=is_current_reading_shelf
         )
 
         books.append(book)
