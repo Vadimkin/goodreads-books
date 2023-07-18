@@ -1,16 +1,6 @@
 {
   "books": [
     {
-      "title": "За Перекопом є земля",
-      "author": "Анастасія Левкова",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679581311l/123510454.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5598427417",
-      "rating": null,
-      "date_started": "2023-06-08",
-      "date_read": null,
-      "is_reading_now": true
-    },
-    {
       "title": "The Winners         (Beartown, #3)",
       "author": "Fredrik Backman",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645483248l/60318890.jpg",
@@ -19,6 +9,16 @@
       "date_started": "2023-04-01",
       "date_read": null,
       "is_reading_now": true
+    },
+    {
+      "title": "За Перекопом є земля",
+      "author": "Анастасія Левкова",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679581311l/123510454.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5598427417",
+      "rating": 4,
+      "date_started": "2023-06-08",
+      "date_read": "2023-07-17",
+      "is_reading_now": false
     },
     {
       "title": "Графічний дизайн з українським обличчям",
