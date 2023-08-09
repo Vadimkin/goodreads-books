@@ -30,8 +30,8 @@ class BookReview:
     cover_url: str
     review_url: str
     rating: int | None = None
-    date_started: str = None
-    date_read: str = None
+    date_started: datetime.date = None
+    date_read: datetime.date = None
     is_reading_now: bool = False
 
 
@@ -59,11 +59,11 @@ def process_bookshelf_page(page_content: BeautifulSoup) -> list[BookReview]:
 
         date_started = row.find('td', class_='field date_started').find('span', class_='date_started_value')
         if date_started:
-            date_started = date_str_to_iso(date_started.text)
+            date_started = date_str_to_date(date_started.text)
 
         date_read = row.find('td', class_='field date_read').find('span', class_='date_read_value')
         if date_read:
-            date_read = date_str_to_iso(date_read.text)
+            date_read = date_str_to_date(date_read.text)
 
         if not date_started and not date_read:
             # Треба прибрати книжки з Шакалячого експреса :)
@@ -97,19 +97,19 @@ def get_next_page(bs_content: BeautifulSoup) -> str | None:
     return f"{goodreads_base_url}{next_page_url}"
 
 
-def date_str_to_iso(date: str) -> str:
+def date_str_to_date(date: str) -> datetime.date:
     """
-    Convert date string to isoformat
+    Convert date string to datetime
 
     :param date: Date in string format like Feb 08, 2023 or Feb 2023
-    :return: Date in isoformat (YYYY-MM-DD)
+    :return: Date instance
     """
     if ", " not in date:
         date_obj = datetime.strptime(date, "%b %Y").replace(day=1)
     else:
         date_obj = datetime.strptime(date, "%b %d, %Y")
 
-    return date_obj.date().isoformat()
+    return date_obj.date()
 
 
 def parse_books(url: str) -> list[BookReview]:
