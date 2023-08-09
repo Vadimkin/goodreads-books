@@ -144,6 +144,8 @@ def process():
     books.extend(parse_books(goodreads_read_first_page_url))
 
     books.sort(key=lambda book: book.date_read or book.date_started, reverse=True)
+    # Move currently reading books to the top
+    books.sort(key=lambda book: book.is_reading_now, reverse=True)
 
     logger.info("Books on goodreads: %s", len(books))
     logger.info("Writing books to file...")
