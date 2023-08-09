@@ -1,16 +1,6 @@
 {
   "books": [
     {
-      "title": "За лаштунками війни. Сталін, нацисти і Захід",
-      "author": "Laurence Rees",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663506573l/60886226.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5623780336",
-      "rating": 4,
-      "date_started": "2023-07-18",
-      "date_read": "2023-08-08",
-      "is_reading_now": false
-    },
-    {
       "title": "Ідентичність",
       "author": "Milan Kundera",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687025293l/179000629.jpg",
@@ -19,6 +9,16 @@
       "date_started": "2023-07-21",
       "date_read": null,
       "is_reading_now": true
+    },
+    {
+      "title": "За лаштунками війни. Сталін, нацисти і Захід",
+      "author": "Laurence Rees",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663506573l/60886226.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5623780336",
+      "rating": 4,
+      "date_started": "2023-07-18",
+      "date_read": "2023-08-08",
+      "is_reading_now": false
     },
     {
       "title": "За Перекопом є земля",
