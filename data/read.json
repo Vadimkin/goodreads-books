@@ -1,14 +1,24 @@
 {
   "books": [
     {
+      "title": "Нестерпна легкість буття",
+      "author": "Milan Kundera",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567451669l/49521720.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5758444468",
+      "rating": null,
+      "date_started": "2023-08-14",
+      "date_read": null,
+      "is_reading_now": true
+    },
+    {
       "title": "Скрипниківка",
       "author": "Serhiy Zhadan",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688982512l/186998972.jpg",
       "review_url": "https://www.goodreads.com/review/show/5758440539",
-      "rating": null,
+      "rating": 5,
       "date_started": "2023-08-13",
-      "date_read": null,
-      "is_reading_now": true
+      "date_read": "2023-08-14",
+      "is_reading_now": false
     },
     {
       "title": "Ідентичність",
