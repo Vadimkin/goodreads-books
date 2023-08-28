@@ -1,16 +1,6 @@
 {
   "books": [
     {
-      "title": "Нестерпна легкість буття",
-      "author": "Milan Kundera",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567451669l/49521720.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5758444468",
-      "rating": null,
-      "date_started": "2023-08-14",
-      "date_read": null,
-      "is_reading_now": true
-    },
-    {
       "title": "Як рубали вишневий сад, або Довга дорога з Бад-Емсу",
       "author": "Oksana Zabuzhko",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636111322l/57551229.jpg",
