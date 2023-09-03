@@ -1,8 +1,8 @@
 import json
 import logging
 import pathlib
-import requests
 import grequests
+import requests
 import re
 from dataclasses import dataclass
 from datetime import datetime
