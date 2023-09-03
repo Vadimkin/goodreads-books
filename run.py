@@ -1,14 +1,13 @@
 import json
 import logging
 import pathlib
+import requests
+import grequests
 import re
 from dataclasses import dataclass
 from datetime import datetime
 
 from bs4 import BeautifulSoup
-
-import requests as requests
-
 from enhased_json_decoder import EnhancedJSONEncoder
 
 logging.basicConfig()
@@ -127,9 +126,14 @@ def parse_books(url: str) -> list[BookReview]:
     books_page_content = BeautifulSoup(request.content, 'html.parser')
     books.extend(process_bookshelf_page(books_page_content))
 
-    next_page_url = get_next_page(books_page_content)
-    if next_page_url:
-        books.extend(parse_books(next_page_url))
+    total_books = books_page_content.find('span', class_='h1Shelf').find('span', class_='greyText').text
+    total_books_int = int(re.search(r"\d+", total_books).group())
+    total_pages = total_books_int // 30 + 1  # 30 books per page
+
+    reqs = (grequests.get(f"{url}&page={i}") for i in range(2, total_pages + 1))  # First page is already parsed
+    for resp in grequests.map(reqs):
+        books_page_content = BeautifulSoup(resp.content, 'html.parser')
+        books.extend(process_bookshelf_page(books_page_content))
 
     return books
 
