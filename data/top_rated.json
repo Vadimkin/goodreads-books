@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "title": "Хазяїн",
+      "author": "Іван Карпенко-Карий",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491672677l/16069099.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5281017301",
+      "rating": 4,
+      "date_started": "2023-09-03",
+      "date_read": "2023-09-04",
+      "is_reading_now": false
+    },
+    {
       "title": "Як рубали вишневий сад, або Довга дорога з Бад-Емсу",
       "author": "Oksana Zabuzhko",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636111322l/57551229.jpg",

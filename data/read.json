@@ -1,14 +1,24 @@
 {
   "books": [
     {
+      "title": "Я бачу, вас цікавить пітьма",
+      "author": "Ілларіон Павлюк",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1606955758l/55168065.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5819474688",
+      "rating": null,
+      "date_started": "2023-09-04",
+      "date_read": null,
+      "is_reading_now": true
+    },
+    {
       "title": "Хазяїн",
       "author": "Іван Карпенко-Карий",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491672677l/16069099.jpg",
       "review_url": "https://www.goodreads.com/review/show/5281017301",
-      "rating": null,
+      "rating": 4,
       "date_started": "2023-09-03",
-      "date_read": null,
-      "is_reading_now": true
+      "date_read": "2023-09-04",
+      "is_reading_now": false
     },
     {
       "title": "I'd Like to Play Alone, Please: Essays",
