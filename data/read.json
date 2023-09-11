@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "title": "Дзвінка",
+      "author": "Ніна Кур'ята",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689764214l/159254437.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5832153598",
+      "rating": null,
+      "date_started": "2023-09-10",
+      "date_read": null,
+      "is_reading_now": true
+    },
+    {
       "title": "Месопотамія",
       "author": "Serhiy Zhadan",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673912173l/78814630.jpg",
