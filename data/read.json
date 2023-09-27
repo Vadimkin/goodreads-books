@@ -1,12 +1,12 @@
 {
   "books": [
     {
-      "title": "Дзвінка",
-      "author": "Ніна Кур'ята",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689764214l/159254437.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5832153598",
+      "title": "Історії про життя, смерть і нейрохірургію",
+      "author": "Henry Marsh",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507057960l/26122376.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5083014075",
       "rating": null,
-      "date_started": "2023-09-10",
+      "date_started": "2023-09-26",
       "date_read": null,
       "is_reading_now": true
     },
@@ -19,6 +19,16 @@
       "date_started": "2023-09-05",
       "date_read": null,
       "is_reading_now": true
+    },
+    {
+      "title": "Дзвінка",
+      "author": "Ніна Кур'ята",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689764214l/159254437.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5832153598",
+      "rating": 3,
+      "date_started": "2023-09-10",
+      "date_read": "2023-09-26",
+      "is_reading_now": false
     },
     {
       "title": "Хазяїн",
@@ -1673,7 +1683,7 @@
     {
       "title": "Одиночество в сети",
       "author": "Janusz Leon Wiśniewski",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695139278l/9895040.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695772112l/9895040.jpg",
       "review_url": "https://www.goodreads.com/review/show/3276027431",
       "rating": null,
       "date_started": "2012-02-01",
