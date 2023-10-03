@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
+      "author": "Frede  Фредерік Бастіа Bastiat",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643293246l/60224345.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5884780066",
+      "rating": null,
+      "date_started": "2023-10-03",
+      "date_read": null,
+      "is_reading_now": true
+    },
+    {
       "title": "Історії про життя, смерть і нейрохірургію",
       "author": "Henry Marsh",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662550537l/62325483.jpg",
