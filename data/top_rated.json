@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
+      "author": "Frede  Фредерік Бастіа Bastiat",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643293246l/60224345.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5884780066",
+      "rating": 4,
+      "date_started": "2023-10-03",
+      "date_read": "2023-10-06",
+      "is_reading_now": false
+    },
+    {
       "title": "Zero to One: Notes on Startups, or How to Build the Future",
       "author": "Peter Thiel",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630663027l/18050143.jpg",

@@ -1,16 +1,6 @@
 {
   "books": [
     {
-      "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
-      "author": "Frede  Фредерік Бастіа Bastiat",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643293246l/60224345.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5884780066",
-      "rating": null,
-      "date_started": "2023-10-03",
-      "date_read": null,
-      "is_reading_now": true
-    },
-    {
       "title": "Історії про життя, смерть і нейрохірургію",
       "author": "Henry Marsh",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662550537l/62325483.jpg",
@@ -19,6 +9,16 @@
       "date_started": "2023-09-26",
       "date_read": null,
       "is_reading_now": true
+    },
+    {
+      "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
+      "author": "Frede  Фредерік Бастіа Bastiat",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643293246l/60224345.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5884780066",
+      "rating": 4,
+      "date_started": "2023-10-03",
+      "date_read": "2023-10-06",
+      "is_reading_now": false
     },
     {
       "title": "Zero to One: Notes on Startups, or How to Build the Future",
@@ -1703,7 +1703,7 @@
     {
       "title": "Одиночество в сети",
       "author": "Janusz Leon Wiśniewski",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696411809l/9895040.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696552743l/9895040.jpg",
       "review_url": "https://www.goodreads.com/review/show/3276027431",
       "rating": null,
       "date_started": "2012-02-01",
