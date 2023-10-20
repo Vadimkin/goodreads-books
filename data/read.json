@@ -1,12 +1,12 @@
 {
   "books": [
     {
-      "title": "Marketing 5.0: Technology for Humanity",
-      "author": "Hermawan Kartajaya",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608044725l/54711484.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5886632650",
+      "title": "Лексикон таємних знань",
+      "author": "Тарас Прохасько",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695198283l/199046700.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5869282269",
       "rating": null,
-      "date_started": "2023-10-07",
+      "date_started": "2023-10-20",
       "date_read": null,
       "is_reading_now": true
     },
@@ -19,6 +19,16 @@
       "date_started": "2023-09-26",
       "date_read": null,
       "is_reading_now": true
+    },
+    {
+      "title": "Marketing 5.0: Technology for Humanity",
+      "author": "Hermawan Kartajaya",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608044725l/54711484.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5886632650",
+      "rating": 2,
+      "date_started": "2023-10-07",
+      "date_read": "2023-10-20",
+      "is_reading_now": false
     },
     {
       "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
