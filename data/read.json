@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "title": "Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією",
+      "author": "Вікторія Берещак",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696567083l/199292556.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5927666173",
+      "rating": null,
+      "date_started": "2023-10-24",
+      "date_read": null,
+      "is_reading_now": true
+    },
+    {
       "title": "Лексикон таємних знань",
       "author": "Тарас Прохасько",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695198283l/199046700.jpg",
