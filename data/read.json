@@ -1,6 +1,16 @@
 {
   "books": [
     {
+      "title": "Що мій син має знати про світ",
+      "author": "Fredrik Backman",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694689466l/198972397.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5929552193",
+      "rating": null,
+      "date_started": "2023-10-26",
+      "date_read": null,
+      "is_reading_now": true
+    },
+    {
       "title": "Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією",
       "author": "Вікторія Берещак",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696567083l/199292556.jpg",
