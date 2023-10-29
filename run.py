@@ -17,9 +17,11 @@ logger.setLevel(logging.DEBUG)
 goodreads_base_url = "https://www.goodreads.com"
 goodreads_read_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=read"
 goodreads_currently_reading_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=currently-reading"
+goodreads_bookcrossing_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=bookcrossing"
 
 read_books_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" / "read.json"
 top_rated_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" / "top_rated.json"
+bookcrossing_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" / "bookcrossing.json"
 
 
 @dataclass
@@ -162,6 +164,12 @@ def process():
     with open(top_rated_output_json_file, 'w', encoding='utf-8') as f:
         top_rated_books = list(filter(lambda book: book.rating in [4, 5], books))
         books_dict = {"books": top_rated_books}
+        json_str = json.dumps(books_dict, cls=EnhancedJSONEncoder, ensure_ascii=False, indent=2)
+        f.write(json_str)
+
+    with open(bookcrossing_output_json_file, 'w', encoding='utf-8') as f:
+        bookcrossing_books = parse_books(goodreads_bookcrossing_first_page_url)
+        books_dict = {"books": bookcrossing_books}
         json_str = json.dumps(books_dict, cls=EnhancedJSONEncoder, ensure_ascii=False, indent=2)
         f.write(json_str)
 
