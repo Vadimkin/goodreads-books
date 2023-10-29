@@ -1,14 +1,94 @@
 {
   "books": [
     {
+      "title": "Що мій син має знати про світ",
+      "author": "Fredrik Backman",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694689466l/198972397.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5929552193",
+      "rating": null,
+      "date_started": "2023-10-26",
+      "date_read": null,
+      "is_reading_now": true
+    },
+    {
+      "title": "Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією",
+      "author": "Вікторія Берещак",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696567083l/199292556.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5927666173",
+      "rating": null,
+      "date_started": "2023-10-24",
+      "date_read": null,
+      "is_reading_now": true
+    },
+    {
+      "title": "Історії про життя, смерть і нейрохірургію",
+      "author": "Henry Marsh",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662550537l/62325483.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5083014075",
+      "rating": null,
+      "date_started": "2023-09-26",
+      "date_read": null,
+      "is_reading_now": true
+    },
+    {
+      "title": "Marketing 5.0: Technology for Humanity",
+      "author": "Hermawan Kartajaya",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608044725l/54711484.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5886632650",
+      "rating": 2,
+      "date_started": "2023-10-07",
+      "date_read": "2023-10-20",
+      "is_reading_now": false
+    },
+    {
+      "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
+      "author": "Frede  Фредерік Бастіа Bastiat",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643293246l/60224345.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5884780066",
+      "rating": 4,
+      "date_started": "2023-10-03",
+      "date_read": "2023-10-06",
+      "is_reading_now": false
+    },
+    {
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "author": "Peter Thiel",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630663027l/18050143.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5097948890",
+      "rating": 4,
+      "date_started": "2023-10-03",
+      "date_read": "2023-10-03",
+      "is_reading_now": false
+    },
+    {
+      "title": "30 віршів про любов і залізницю",
+      "author": "Сергій Жадан",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685440509l/167731757.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5877326770",
+      "rating": 4,
+      "date_started": "2023-09-30",
+      "date_read": "2023-09-30",
+      "is_reading_now": false
+    },
+    {
+      "title": "Дзвінка. Українка, народжена в СРСР",
+      "author": "Ніна Кур'ята",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689764214l/159254437.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5832153598",
+      "rating": 3,
+      "date_started": "2023-09-10",
+      "date_read": "2023-09-26",
+      "is_reading_now": false
+    },
+    {
       "title": "Хазяїн",
       "author": "Іван Карпенко-Карий",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491672677l/16069099.jpg",
       "review_url": "https://www.goodreads.com/review/show/5281017301",
-      "rating": null,
+      "rating": 4,
       "date_started": "2023-09-03",
-      "date_read": null,
-      "is_reading_now": true
+      "date_read": "2023-09-04",
+      "is_reading_now": false
     },
     {
       "title": "I'd Like to Play Alone, Please: Essays",
@@ -1653,7 +1733,7 @@
     {
       "title": "Одиночество в сети",
       "author": "Janusz Leon Wiśniewski",
-      "cover_url": "https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697833633l/9895040.jpg",
       "review_url": "https://www.goodreads.com/review/show/3276027431",
       "rating": null,
       "date_started": "2012-02-01",

@@ -1,6 +1,46 @@
 {
   "books": [
     {
+      "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
+      "author": "Frede  Фредерік Бастіа Bastiat",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643293246l/60224345.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5884780066",
+      "rating": 4,
+      "date_started": "2023-10-03",
+      "date_read": "2023-10-06",
+      "is_reading_now": false
+    },
+    {
+      "title": "Zero to One: Notes on Startups, or How to Build the Future",
+      "author": "Peter Thiel",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630663027l/18050143.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5097948890",
+      "rating": 4,
+      "date_started": "2023-10-03",
+      "date_read": "2023-10-03",
+      "is_reading_now": false
+    },
+    {
+      "title": "30 віршів про любов і залізницю",
+      "author": "Сергій Жадан",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685440509l/167731757.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5877326770",
+      "rating": 4,
+      "date_started": "2023-09-30",
+      "date_read": "2023-09-30",
+      "is_reading_now": false
+    },
+    {
+      "title": "Хазяїн",
+      "author": "Іван Карпенко-Карий",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491672677l/16069099.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5281017301",
+      "rating": 4,
+      "date_started": "2023-09-03",
+      "date_read": "2023-09-04",
+      "is_reading_now": false
+    },
+    {
       "title": "Як рубали вишневий сад, або Довга дорога з Бад-Емсу",
       "author": "Oksana Zabuzhko",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636111322l/57551229.jpg",
