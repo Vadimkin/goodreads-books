@@ -36,7 +36,7 @@ class BookReview:
     is_reading_now: bool = False
 
 
-def process_bookshelf_page(page_content: BeautifulSoup) -> list[BookReview]:
+def process_bookshelf_page(page_content: BeautifulSoup, skip_unread: bool = True) -> list[BookReview]:
     books_table = page_content.find('table', id='books')
     books = []
 
@@ -66,7 +66,7 @@ def process_bookshelf_page(page_content: BeautifulSoup) -> list[BookReview]:
         if date_read:
             date_read = date_str_to_date(date_read.text)
 
-        if not date_started and not date_read:
+        if skip_unread and not date_started and not date_read:
             # Треба прибрати книжки з Шакалячого експреса :)
             continue
 
@@ -113,11 +113,12 @@ def date_str_to_date(date: str) -> datetime.date:
     return date_obj.date()
 
 
-def parse_books(url: str) -> list[BookReview]:
+def parse_books(url: str, skip_unread: bool = True) -> list[BookReview]:
     """
     Parse books from goodreads
 
     :param url: Url to parse
+    :param skip_unread: Include unread books or not
     :return: List of books
     """
     logger.info("Processing url %s...", url)
@@ -126,7 +127,7 @@ def parse_books(url: str) -> list[BookReview]:
     books = []
 
     books_page_content = BeautifulSoup(request.content, 'html.parser')
-    books.extend(process_bookshelf_page(books_page_content))
+    books.extend(process_bookshelf_page(books_page_content, skip_unread))
 
     total_books = books_page_content.find('span', class_='h1Shelf').find('span', class_='greyText').text
     total_books_int = int(re.search(r"\d+", total_books).group())
@@ -135,7 +136,7 @@ def parse_books(url: str) -> list[BookReview]:
     reqs = (grequests.get(f"{url}&page={i}") for i in range(2, total_pages + 1))  # First page is already parsed
     for resp in grequests.map(reqs):
         books_page_content = BeautifulSoup(resp.content, 'html.parser')
-        books.extend(process_bookshelf_page(books_page_content))
+        books.extend(process_bookshelf_page(books_page_content, skip_unread))
 
     return books
 
@@ -168,7 +169,7 @@ def process():
         f.write(json_str)
 
     with open(bookcrossing_output_json_file, 'w', encoding='utf-8') as f:
-        bookcrossing_books = parse_books(goodreads_bookcrossing_first_page_url)
+        bookcrossing_books = parse_books(goodreads_bookcrossing_first_page_url, skip_unread=False)
         books_dict = {"books": bookcrossing_books}
         json_str = json.dumps(books_dict, cls=EnhancedJSONEncoder, ensure_ascii=False, indent=2)
         f.write(json_str)
