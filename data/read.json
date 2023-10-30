@@ -9,7 +9,7 @@
       "date_started": "2023-10-26",
       "date_read": null,
       "is_reading_now": true,
-      "own": true
+      "own": false
     },
     {
       "title": "Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією",
@@ -196,7 +196,7 @@
       "date_started": "2023-04-24",
       "date_read": "2023-05-17",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Драбина",
@@ -977,7 +977,7 @@
       "date_started": null,
       "date_read": "2017-12-01",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Путеводитель по лжи: Критическое мышление в эпоху постправды",
