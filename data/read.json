@@ -8,7 +8,8 @@
       "rating": null,
       "date_started": "2023-10-26",
       "date_read": null,
-      "is_reading_now": true
+      "is_reading_now": true,
+      "own": true
     },
     {
       "title": "Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією",
@@ -18,7 +19,8 @@
       "rating": null,
       "date_started": "2023-10-24",
       "date_read": null,
-      "is_reading_now": true
+      "is_reading_now": true,
+      "own": true
     },
     {
       "title": "Історії про життя, смерть і нейрохірургію",
@@ -28,7 +30,8 @@
       "rating": null,
       "date_started": "2023-09-26",
       "date_read": null,
-      "is_reading_now": true
+      "is_reading_now": true,
+      "own": true
     },
     {
       "title": "Marketing 5.0: Technology for Humanity",
@@ -38,7 +41,8 @@
       "rating": 2,
       "date_started": "2023-10-07",
       "date_read": "2023-10-20",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
@@ -48,7 +52,8 @@
       "rating": 4,
       "date_started": "2023-10-03",
       "date_read": "2023-10-06",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Від нуля до одиниці! Нотатки про стартапи, або як створити майбутнє",
@@ -58,7 +63,8 @@
       "rating": 4,
       "date_started": "2023-10-03",
       "date_read": "2023-10-03",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "30 віршів про любов і залізницю",
@@ -68,7 +74,8 @@
       "rating": 4,
       "date_started": "2023-09-30",
       "date_read": "2023-09-30",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Дзвінка. Українка, народжена в СРСР",
@@ -78,7 +85,8 @@
       "rating": 3,
       "date_started": "2023-09-10",
       "date_read": "2023-09-26",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Хазяїн",
@@ -88,7 +96,8 @@
       "rating": 4,
       "date_started": "2023-09-03",
       "date_read": "2023-09-04",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "I'd Like to Play Alone, Please: Essays",
@@ -98,7 +107,8 @@
       "rating": 2,
       "date_started": "2023-08-29",
       "date_read": "2023-09-03",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Як рубали вишневий сад, або Довга дорога з Бад-Емсу",
@@ -108,7 +118,8 @@
       "rating": 5,
       "date_started": null,
       "date_read": "2023-08-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Скрипниківка",
@@ -118,7 +129,8 @@
       "rating": 5,
       "date_started": "2023-08-13",
       "date_read": "2023-08-14",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Ідентичність",
@@ -128,7 +140,8 @@
       "rating": 3,
       "date_started": "2023-07-21",
       "date_read": "2023-08-13",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "За лаштунками війни. Сталін, нацисти і Захід",
@@ -138,7 +151,8 @@
       "rating": 4,
       "date_started": "2023-07-18",
       "date_read": "2023-08-08",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "За Перекопом є земля",
@@ -148,7 +162,8 @@
       "rating": 4,
       "date_started": "2023-06-08",
       "date_read": "2023-07-17",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Men Without Women",
@@ -158,7 +173,8 @@
       "rating": 4,
       "date_started": "2023-05-18",
       "date_read": "2023-06-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Графічний дизайн з українським обличчям",
@@ -168,7 +184,8 @@
       "rating": 3,
       "date_started": "2023-06-04",
       "date_read": "2023-06-05",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Наука сторітелінгу",
@@ -178,7 +195,8 @@
       "rating": 4,
       "date_started": "2023-04-24",
       "date_read": "2023-05-17",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Драбина",
@@ -188,7 +206,8 @@
       "rating": 4,
       "date_started": "2023-04-18",
       "date_read": "2023-04-23",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Вихід зазвичай з іншого боку",
@@ -198,7 +217,8 @@
       "rating": 4,
       "date_started": "2023-04-07",
       "date_read": "2023-04-09",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Одинадцять помідорів і один маленький",
@@ -208,7 +228,8 @@
       "rating": 4,
       "date_started": "2023-04-06",
       "date_read": "2023-04-06",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Записки Кирпатого Мефістофеля",
@@ -218,7 +239,8 @@
       "rating": 4,
       "date_started": "2023-03-11",
       "date_read": "2023-03-29",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Культура принад і спротиву",
@@ -228,7 +250,8 @@
       "rating": 4,
       "date_started": "2023-02-06",
       "date_read": "2023-03-11",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Подорож ученого доктора Леонардо і його майбутньої коханки прекрасної Альчести у Слобожанську Швейцарію. Як будується оповідання. Поезії",
@@ -238,7 +261,8 @@
       "rating": 3,
       "date_started": "2023-02-08",
       "date_read": "2023-02-18",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Незавершена війна. Історія протистояння України з Росією в 2014–2015 роках",
@@ -248,7 +272,8 @@
       "rating": 4,
       "date_started": "2023-01-11",
       "date_read": "2023-01-17",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Ми проти вас",
@@ -258,7 +283,8 @@
       "rating": 5,
       "date_started": "2022-11-20",
       "date_read": "2022-12-24",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Мистецтво зосереджуватися. Як у нас украли увагу",
@@ -268,7 +294,8 @@
       "rating": 5,
       "date_started": "2022-11-19",
       "date_read": "2022-11-20",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Каста. Витоки наших невдоволень",
@@ -278,7 +305,8 @@
       "rating": 3,
       "date_started": "2022-11-06",
       "date_read": "2022-11-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Кобзар [фототипія примірника видання 1840 року]",
@@ -288,7 +316,8 @@
       "rating": 5,
       "date_started": "2022-10-24",
       "date_read": "2022-10-25",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Квантова Економіка",
@@ -298,7 +327,8 @@
       "rating": 3,
       "date_started": "2022-08-30",
       "date_read": "2022-09-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Лексикон інтимних міст",
@@ -308,7 +338,8 @@
       "rating": 3,
       "date_started": "2022-08-05",
       "date_read": "2022-08-09",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Про що я говорю, коли говорю про біг",
@@ -318,7 +349,8 @@
       "rating": 4,
       "date_started": "2022-08-03",
       "date_read": "2022-08-04",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Трубадури імперії: Російська література і колоніалізм",
@@ -328,7 +360,8 @@
       "rating": 4,
       "date_started": "2022-07-24",
       "date_read": "2022-08-03",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "The Choice: Embrace the Possible",
@@ -338,7 +371,8 @@
       "rating": 4,
       "date_started": "2022-07-16",
       "date_read": "2022-07-24",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Аномалія",
@@ -348,7 +382,8 @@
       "rating": 2,
       "date_started": "2022-07-10",
       "date_read": "2022-07-13",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you",
@@ -358,7 +393,8 @@
       "rating": 5,
       "date_started": "2022-06-18",
       "date_read": "2022-06-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Вся кремлевская рать: Краткая история современной России",
@@ -368,7 +404,8 @@
       "rating": 3,
       "date_started": "2022-05-27",
       "date_read": "2022-06-18",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Велика шахівниця. Американська першість та її стратегічні імперативи",
@@ -378,7 +415,8 @@
       "rating": 4,
       "date_started": "2022-05-29",
       "date_read": "2022-06-05",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Хлібне перемир'я",
@@ -388,7 +426,8 @@
       "rating": 4,
       "date_started": "2022-04-11",
       "date_read": "2022-04-11",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Ласощі для Медора",
@@ -398,7 +437,8 @@
       "rating": 4,
       "date_started": "2022-03-12",
       "date_read": "2022-03-13",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Чотири тисячі тижнів. Тайм-менеджмент для смертних",
@@ -408,7 +448,8 @@
       "rating": 5,
       "date_started": "2022-02-19",
       "date_read": "2022-02-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Don't Be Evil: How Big Tech Betrayed Its Founding Principles -- and All of Us",
@@ -418,7 +459,8 @@
       "rating": 3,
       "date_started": "2021-12-19",
       "date_read": "2022-01-09",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "The Culture Map: Breaking Through the Invisible Boundaries of Global Business",
@@ -428,7 +470,8 @@
       "rating": 4,
       "date_started": "2020-08-12",
       "date_read": "2021-12-16",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "The Passion Economy: The New Rules for Thriving in the Twenty-First Century",
@@ -438,7 +481,8 @@
       "rating": null,
       "date_started": "2021-07-02",
       "date_read": "2021-11-21",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Anxious People",
@@ -448,7 +492,8 @@
       "rating": 4,
       "date_started": "2021-10-06",
       "date_read": "2021-10-27",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Мій дід танцював краще за всіх",
@@ -458,7 +503,8 @@
       "rating": 3,
       "date_started": "2021-09-22",
       "date_read": "2021-09-25",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Фактологія. 10 хибних уявлень про світ, і чому все набагато краще, ніж ми думаємо",
@@ -468,7 +514,8 @@
       "rating": 5,
       "date_started": "2021-09-01",
       "date_read": "2021-09-11",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Effortless: Make It Easier to Do What Matters Most",
@@ -478,7 +525,8 @@
       "rating": 3,
       "date_started": "2021-08-14",
       "date_read": "2021-08-28",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "12 правил життя. Як перемогти хаос",
@@ -488,7 +536,8 @@
       "rating": 1,
       "date_started": "2021-08-15",
       "date_read": "2021-08-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Досить уже помилок. Як наші упередження впливають на наші рішення",
@@ -498,7 +547,8 @@
       "rating": 3,
       "date_started": "2021-08-07",
       "date_read": "2021-08-10",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Шлях до несвободи: Росія, Європа, Америка",
@@ -508,7 +558,8 @@
       "rating": 4,
       "date_started": "2021-07-25",
       "date_read": "2021-08-07",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Кожен із нас - Президент",
@@ -518,7 +569,8 @@
       "rating": 2,
       "date_started": "2021-07-31",
       "date_read": "2021-07-31",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Ведмеже місто         (Beartown, #1)",
@@ -528,7 +580,8 @@
       "rating": 4,
       "date_started": "2021-07-07",
       "date_read": "2021-07-24",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Брітт-Марі була тут",
@@ -538,7 +591,8 @@
       "rating": null,
       "date_started": "2021-05-24",
       "date_read": "2021-07-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Чистий Agile: назад до основ",
@@ -548,7 +602,8 @@
       "rating": 4,
       "date_started": "2021-05-27",
       "date_read": "2021-06-05",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Экономика всего: Как институты определяют нашу жизнь",
@@ -558,7 +613,8 @@
       "rating": 4,
       "date_started": "2021-06-03",
       "date_read": "2021-06-05",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Шляхи життя",
@@ -568,7 +624,8 @@
       "rating": 3,
       "date_started": "2021-05-29",
       "date_read": "2021-05-29",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Everything Is F*cked",
@@ -578,7 +635,8 @@
       "rating": 4,
       "date_started": "2021-04-14",
       "date_read": "2021-05-23",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Готуємо в журбі",
@@ -588,7 +646,8 @@
       "rating": 5,
       "date_started": null,
       "date_read": "2021-05-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Постправда",
@@ -598,7 +657,8 @@
       "rating": 3,
       "date_started": "2021-04-10",
       "date_read": "2021-04-13",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Моя бабуся просить їй вибачити",
@@ -608,7 +668,8 @@
       "rating": 4,
       "date_started": "2021-03-23",
       "date_read": "2021-04-04",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Чоловік на ім'я Уве",
@@ -618,7 +679,8 @@
       "rating": 5,
       "date_started": "2021-03-19",
       "date_read": "2021-03-21",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Гітлер і Сталін. Тирани та Друга світова війна",
@@ -628,7 +690,8 @@
       "rating": 5,
       "date_started": "2021-03-12",
       "date_read": "2021-03-18",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Черчилль і Орвелл. Битва за свободу",
@@ -638,7 +701,8 @@
       "rating": 4,
       "date_started": "2021-03-01",
       "date_read": "2021-03-12",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "The Hype Machine: How Social Media Disrupts Our Elections, Our Economy, and Our Health--and How We Must Adapt",
@@ -648,7 +712,8 @@
       "rating": 4,
       "date_started": "2021-02-19",
       "date_read": "2021-03-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Простими словами. Як розібратися у своїх емоціях",
@@ -658,7 +723,8 @@
       "rating": 3,
       "date_started": "2021-02-14",
       "date_read": "2021-02-15",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Міста для людей",
@@ -668,7 +734,8 @@
       "rating": 4,
       "date_started": "2021-01-31",
       "date_read": "2021-02-14",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Гении и аутсайдеры",
@@ -678,7 +745,8 @@
       "rating": 4,
       "date_started": "2021-01-23",
       "date_read": "2021-01-30",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "MAKE: Bootstrapper's Handbook",
@@ -688,7 +756,8 @@
       "rating": 3,
       "date_started": "2021-01-20",
       "date_read": "2021-01-23",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Світ за Кларксоном. Як я вже казав...",
@@ -698,7 +767,8 @@
       "rating": 3,
       "date_started": "2021-01-13",
       "date_read": "2021-01-20",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "No Filter: The Inside Story of Instagram",
@@ -708,7 +778,8 @@
       "rating": 4,
       "date_started": "2020-12-27",
       "date_read": "2021-01-03",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Передбачувана ірраціональність",
@@ -718,7 +789,8 @@
       "rating": 4,
       "date_started": "2020-10-05",
       "date_read": "2020-10-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Нормальні люди",
@@ -728,7 +800,8 @@
       "rating": 3,
       "date_started": "2020-09-26",
       "date_read": "2020-09-29",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Все це триватиме далі",
@@ -738,7 +811,8 @@
       "rating": 3,
       "date_started": "2020-09-26",
       "date_read": "2020-09-26",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Зруйнована гавань",
@@ -748,7 +822,8 @@
       "rating": 3,
       "date_started": "2020-08-26",
       "date_read": "2020-09-09",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "To Have or to Be? The Nature of the Psyche",
@@ -758,7 +833,8 @@
       "rating": null,
       "date_started": "2020-08-22",
       "date_read": "2020-09-07",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Економіка. Інструкція з використання",
@@ -768,7 +844,8 @@
       "rating": 2,
       "date_started": "2020-07-19",
       "date_read": "2020-08-12",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Коротко і по суті. Мистецтво визначати пріоритети",
@@ -778,7 +855,8 @@
       "rating": 4,
       "date_started": "2020-06-25",
       "date_read": "2020-07-04",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Не турбувати. Як сфокусуватися в інформаційному шумі!",
@@ -788,7 +866,8 @@
       "rating": 3,
       "date_started": "2020-07-01",
       "date_read": "2020-07-02",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Анатомия человеческой деструктивности",
@@ -798,7 +877,8 @@
       "rating": 5,
       "date_started": "2020-05-17",
       "date_read": "2020-06-25",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "\"Я змішаю твою кров із вугіллям\". Зрозуміти український Схід",
@@ -808,7 +888,8 @@
       "rating": 5,
       "date_started": "2020-05-10",
       "date_read": "2020-05-10",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Emotional Intelligence Pocketbook: Little Exercises for an Intuitive Life",
@@ -818,7 +899,8 @@
       "rating": 3,
       "date_started": "2020-04-12",
       "date_read": "2020-04-18",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Пройти крізь стіни",
@@ -828,7 +910,8 @@
       "rating": 5,
       "date_started": "2020-03-29",
       "date_read": "2020-04-02",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Тонкое искусство пофигизма. Парадоксальный способ жить счастливо",
@@ -838,7 +921,8 @@
       "rating": 4,
       "date_started": "2019-07-01",
       "date_read": "2019-08-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "It Doesn't Have to Be Crazy at Work",
@@ -848,7 +932,8 @@
       "rating": 4,
       "date_started": null,
       "date_read": "2019-04-23",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Sapiens. Краткая история человечества",
@@ -858,7 +943,8 @@
       "rating": 4,
       "date_started": null,
       "date_read": "2019-02-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Говорит командир корабля. Вопросы, ответы и наблюдения опытного пилота",
@@ -868,7 +954,8 @@
       "rating": 4,
       "date_started": "2018-01-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Планета PIXAR. Моя неймовірна подорож зі Стівом Джобсом у створення історії розваг",
@@ -878,7 +965,8 @@
       "rating": 4,
       "date_started": "2017-12-06",
       "date_read": "2017-12-14",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Zag. Найкращий посібник з брендингу",
@@ -888,7 +976,8 @@
       "rating": 4,
       "date_started": null,
       "date_read": "2017-12-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Путеводитель по лжи: Критическое мышление в эпоху постправды",
@@ -898,7 +987,8 @@
       "rating": null,
       "date_started": "2017-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Праздник, который всегда с тобой / Прощай, оружие!",
@@ -908,7 +998,8 @@
       "rating": null,
       "date_started": "2017-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Як ніколи не помилятися. Сила математичного мислення",
@@ -918,7 +1009,8 @@
       "rating": 3,
       "date_started": "2017-08-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Программист-прагматик. Путь от подмастерья к мастеру.",
@@ -928,7 +1020,8 @@
       "rating": null,
       "date_started": "2017-07-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Пиши, сокращай. Как создавать сильный текст",
@@ -938,7 +1031,8 @@
       "rating": 4,
       "date_started": null,
       "date_read": "2016-12-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Дело не в кофе. Корпоративная культура Starbucks",
@@ -948,7 +1042,8 @@
       "rating": 3,
       "date_started": null,
       "date_read": "2016-11-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Хорошо быть тихоней",
@@ -958,7 +1053,8 @@
       "rating": 3,
       "date_started": null,
       "date_read": "2016-11-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Все починається в 13",
@@ -968,7 +1064,8 @@
       "rating": 3,
       "date_started": null,
       "date_read": "2016-10-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "У них так принято",
@@ -978,7 +1075,8 @@
       "rating": null,
       "date_started": "2016-09-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Щасливі голі люди",
@@ -988,7 +1086,8 @@
       "rating": null,
       "date_started": "2016-07-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Saint porno. Історія про кіно і тіло",
@@ -998,7 +1097,8 @@
       "rating": 4,
       "date_started": null,
       "date_read": "2016-06-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Scrum: The Art of Doing Twice the Work in Half the Time",
@@ -1008,7 +1108,8 @@
       "rating": null,
       "date_started": "2016-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Фламандская доска",
@@ -1018,7 +1119,8 @@
       "rating": null,
       "date_started": "2016-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Франкенштейн, или Современный Прометей",
@@ -1028,7 +1130,8 @@
       "rating": null,
       "date_started": "2015-12-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Интерстеллар",
@@ -1038,7 +1141,8 @@
       "rating": null,
       "date_started": "2015-12-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Вилла «Белый Конь» / Десять негритят",
@@ -1048,7 +1152,8 @@
       "rating": null,
       "date_started": "2015-12-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Мир по Кларксону [Mir po Klarxonu]",
@@ -1058,7 +1163,8 @@
       "rating": 4,
       "date_started": "2015-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Отель. Аэропорт",
@@ -1068,7 +1174,8 @@
       "rating": null,
       "date_started": "2015-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "theUKRAINIANS: історії успіху",
@@ -1078,7 +1185,8 @@
       "rating": null,
       "date_started": "2015-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Вопрос на засыпку Как заставить мозги шевелиться",
@@ -1088,7 +1196,8 @@
       "rating": null,
       "date_started": "2015-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Год, прожитый по-библейски",
@@ -1098,7 +1207,8 @@
       "rating": 4,
       "date_started": "2015-09-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Моя жизнь, мои достижения",
@@ -1108,7 +1218,8 @@
       "rating": null,
       "date_started": "2015-08-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Поймай меня, если сможешь",
@@ -1118,7 +1229,8 @@
       "rating": null,
       "date_started": "2015-08-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Психбольница в руках пациентов",
@@ -1128,7 +1240,8 @@
       "rating": null,
       "date_started": "2015-07-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Включаем обаяние по методике спецслужб",
@@ -1138,7 +1251,8 @@
       "rating": null,
       "date_started": "2015-07-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Практика малых дел: Каждый человек может что-то изменить",
@@ -1148,7 +1262,8 @@
       "rating": null,
       "date_started": "2015-06-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Какое тебе дело до того, что думают другие?",
@@ -1158,7 +1273,8 @@
       "rating": null,
       "date_started": "2015-06-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Побег из лагеря смерти",
@@ -1168,7 +1284,8 @@
       "rating": null,
       "date_started": "2015-06-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Уверенность в себе: Книга для работы над собой",
@@ -1178,7 +1295,8 @@
       "rating": null,
       "date_started": "2015-04-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Самый богатый человек в Вавилоне",
@@ -1188,7 +1306,8 @@
       "rating": null,
       "date_started": "2015-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "БУДЬ лучшей версией себя: Как обычные люди становятся выдающимися",
@@ -1198,7 +1317,8 @@
       "rating": 3,
       "date_started": "2015-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Эссенциализм. Путь к простоте",
@@ -1208,7 +1328,8 @@
       "rating": null,
       "date_started": "2015-01-01",
       "date_read": "2015-01-29",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Таинственная история Билли Миллигана",
@@ -1218,7 +1339,8 @@
       "rating": 5,
       "date_started": "2015-01-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Книга 2.0. Прошлое, настоящее и будущее электронных книг глазами создателя Kindle",
@@ -1228,7 +1350,8 @@
       "rating": null,
       "date_started": "2015-01-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Повелитель мух / Шпиль",
@@ -1238,7 +1361,8 @@
       "rating": null,
       "date_started": "2015-01-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Пробуй - получится!",
@@ -1248,7 +1372,8 @@
       "rating": 3,
       "date_started": "2014-12-19",
       "date_read": "2014-12-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Максимальная концентрация. Как сохранить эффективность в эпоху клипового мышления",
@@ -1258,7 +1383,8 @@
       "rating": 4,
       "date_started": null,
       "date_read": "2014-12-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Важные годы. Почему не стоит откладывать жизнь на потом",
@@ -1268,7 +1394,8 @@
       "rating": null,
       "date_started": "2014-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Тюремные люди",
@@ -1278,7 +1405,8 @@
       "rating": null,
       "date_started": "2014-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Удовольствие от x. Увлекательная экскурсия в мир математики от одного из лучших преподавателей в мире",
@@ -1288,7 +1416,8 @@
       "rating": null,
       "date_started": "2014-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Инферно         (Robert Langdon #4)",
@@ -1298,7 +1427,8 @@
       "rating": null,
       "date_started": "2014-10-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Дорогая редакция. Подлинная история \"Ленты.ру\", рассказанная её создателями.",
@@ -1308,7 +1438,8 @@
       "rating": null,
       "date_started": "2014-10-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Майдан. (Р)Еволюція духу",
@@ -1318,7 +1449,8 @@
       "rating": null,
       "date_started": "2014-09-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Джони Айв. Легендарный дизайнер Apple",
@@ -1328,7 +1460,8 @@
       "rating": null,
       "date_started": "2014-09-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Сделай себя сам. Советы для тех, кто хочет оставить свой след",
@@ -1338,7 +1471,8 @@
       "rating": null,
       "date_started": "2014-08-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Яндекс.Книга",
@@ -1348,7 +1482,8 @@
       "rating": null,
       "date_started": "2014-07-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Богатый папа, бедный папа",
@@ -1358,7 +1493,8 @@
       "rating": null,
       "date_started": "2014-07-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Бегущий человек",
@@ -1368,7 +1504,8 @@
       "rating": null,
       "date_started": "2014-07-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Иллюзии",
@@ -1378,7 +1515,8 @@
       "rating": null,
       "date_started": "2014-07-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Искусство войны",
@@ -1388,7 +1526,8 @@
       "rating": null,
       "date_started": "2014-06-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Сомнение. Манифест для тех, кто готов выйти из толпы",
@@ -1398,7 +1537,8 @@
       "rating": 3,
       "date_started": "2014-06-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Цветы для Элджернона",
@@ -1408,7 +1548,8 @@
       "rating": 5,
       "date_started": "2014-05-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Чайка по имени Джонатан Ливингстон",
@@ -1418,7 +1559,8 @@
       "rating": null,
       "date_started": "2014-05-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "iПрезентация. Уроки убеждения от лидера Apple Стива Джобса",
@@ -1428,7 +1570,8 @@
       "rating": null,
       "date_started": "2014-05-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Remote: Office Not Required",
@@ -1438,7 +1581,8 @@
       "rating": null,
       "date_started": "2014-04-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "1984, Скотный Двор",
@@ -1448,7 +1592,8 @@
       "rating": 5,
       "date_started": "2014-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Алхимик",
@@ -1458,7 +1603,8 @@
       "rating": null,
       "date_started": "2014-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Процесс",
@@ -1468,7 +1614,8 @@
       "rating": null,
       "date_started": "2014-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Пятьдесят оттенков серого",
@@ -1478,7 +1625,8 @@
       "rating": 2,
       "date_started": "2014-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Are You Just Existing and Calling it a Life?: Empower Your Passion to Find Purpose",
@@ -1488,7 +1636,8 @@
       "rating": 3,
       "date_started": "2013-12-19",
       "date_read": "2013-12-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Психология влияния",
@@ -1498,7 +1647,8 @@
       "rating": null,
       "date_started": "2013-12-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Как люди думают",
@@ -1508,7 +1658,8 @@
       "rating": 2,
       "date_started": "2013-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Выйди из зоны комфорта. Измени свою жизнь.",
@@ -1518,7 +1669,8 @@
       "rating": null,
       "date_started": "2013-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Дизайн привычных вещей",
@@ -1528,7 +1680,8 @@
       "rating": null,
       "date_started": "2013-08-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Алексей Навальный. Гроза жуликов и воров",
@@ -1538,7 +1691,8 @@
       "rating": null,
       "date_started": "2013-07-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Любовь живет три года",
@@ -1548,7 +1702,8 @@
       "rating": null,
       "date_started": "2013-05-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Портрет Дориана Грея",
@@ -1558,7 +1713,8 @@
       "rating": null,
       "date_started": "2013-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Смерть - дело одинокое",
@@ -1568,7 +1724,8 @@
       "rating": 4,
       "date_started": "2013-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Buyology: Увлекательное путешествие в мозг современного потребителя",
@@ -1578,7 +1735,8 @@
       "rating": null,
       "date_started": "2013-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Джулиан Ассанж - Неавторизованная автобиография",
@@ -1588,7 +1746,8 @@
       "rating": null,
       "date_started": "2013-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Будущее уже не то, что прежде",
@@ -1598,7 +1757,8 @@
       "rating": null,
       "date_started": "2013-01-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Атлант расправил плечи",
@@ -1608,7 +1768,8 @@
       "rating": null,
       "date_started": "2013-01-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Зажигая звезду",
@@ -1618,7 +1779,8 @@
       "rating": null,
       "date_started": "2013-01-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Код Дурова: Реальная история \"ВКонтакте\" и ее создателя",
@@ -1628,7 +1790,8 @@
       "rating": null,
       "date_started": "2012-12-01",
       "date_read": "2012-12-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Тайм-драйв: Как успевать жить и работать",
@@ -1638,7 +1801,8 @@
       "rating": null,
       "date_started": "2012-12-01",
       "date_read": "2012-12-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Цельная жизнь для студентов",
@@ -1648,7 +1812,8 @@
       "rating": null,
       "date_started": "2012-09-01",
       "date_read": "2012-09-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Михаил Ходорковский. Узник тишины",
@@ -1658,7 +1823,8 @@
       "rating": null,
       "date_started": "2012-05-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Занимательная физика. Книга 1",
@@ -1668,7 +1834,8 @@
       "rating": null,
       "date_started": "2012-04-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Стив Джобс",
@@ -1678,7 +1845,8 @@
       "rating": null,
       "date_started": "2012-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Стартап без бюджета",
@@ -1688,7 +1856,8 @@
       "rating": null,
       "date_started": "2012-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Связи решают все. Бизнес-сказка о Царевне-лягушке",
@@ -1698,7 +1867,8 @@
       "rating": null,
       "date_started": "2012-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "451 градус по Фаренгейту",
@@ -1708,7 +1878,8 @@
       "rating": null,
       "date_started": "2012-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Над пропастью во ржи",
@@ -1718,7 +1889,8 @@
       "rating": null,
       "date_started": "2012-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Долгая прогулка",
@@ -1728,7 +1900,8 @@
       "rating": null,
       "date_started": "2012-03-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Одиночество в сети",
@@ -1738,7 +1911,8 @@
       "rating": null,
       "date_started": "2012-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "The Телки. Повесть о ненастоящей любви",
@@ -1748,7 +1922,8 @@
       "rating": null,
       "date_started": "2012-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Бег с Лидьярдом: Доступные методики оздоровительного бега от великого тренера ХХ века",
@@ -1758,7 +1933,8 @@
       "rating": null,
       "date_started": "2012-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Rework. Бизнес без предрассудков",
@@ -1768,7 +1944,8 @@
       "rating": null,
       "date_started": "2012-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Парфюмер. История одного убийцы",
@@ -1778,7 +1955,8 @@
       "rating": null,
       "date_started": "2012-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Апология математики",
@@ -1788,7 +1966,8 @@
       "rating": null,
       "date_started": "2012-02-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Математики тоже шутят",
@@ -1798,7 +1977,8 @@
       "rating": null,
       "date_started": "2012-01-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Команда победителей",
@@ -1808,7 +1988,8 @@
       "rating": 3,
       "date_started": "2011-12-19",
       "date_read": "2011-12-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Бойцовский клуб",
@@ -1818,7 +1999,8 @@
       "rating": null,
       "date_started": "2011-12-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Книга всеобщих заблуждений",
@@ -1828,7 +2010,8 @@
       "rating": null,
       "date_started": "2011-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Суперфрикономика",
@@ -1838,7 +2021,8 @@
       "rating": null,
       "date_started": "2011-11-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Никогда не ешьте в одиночку и другие правила нетворкинга",
@@ -1848,7 +2032,8 @@
       "rating": null,
       "date_started": "2011-10-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "\"Вы, конечно, шутите, мистер Фейнман!\"",
@@ -1858,7 +2043,8 @@
       "rating": null,
       "date_started": "2011-09-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Доставляя счастье",
@@ -1868,7 +2054,8 @@
       "rating": null,
       "date_started": "2011-08-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Ководство",
@@ -1878,7 +2065,8 @@
       "rating": null,
       "date_started": "2011-08-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "1984",
@@ -1888,7 +2076,8 @@
       "rating": null,
       "date_started": "2011-07-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Спать хочется",
@@ -1898,7 +2087,8 @@
       "rating": null,
       "date_started": "2011-05-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Наивно. Супер",
@@ -1908,7 +2098,8 @@
       "rating": null,
       "date_started": "2011-04-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "К черту все! Берись и делай! - 2",
@@ -1918,7 +2109,8 @@
       "rating": null,
       "date_started": "2011-04-01",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     }
   ]
 }

@@ -17,6 +17,7 @@ logger.setLevel(logging.DEBUG)
 goodreads_base_url = "https://www.goodreads.com"
 goodreads_read_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=read"
 goodreads_currently_reading_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=currently-reading"
+goodreads_own_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=own"
 goodreads_bookcrossing_first_page_url = f"{goodreads_base_url}/review/list/18740796-vadym-klymenko?shelf=bookcrossing"
 
 read_books_output_json_file = pathlib.Path(__file__).parent.resolve() / "data" / "read.json"
@@ -34,6 +35,7 @@ class BookReview:
     date_started: datetime.date = None
     date_read: datetime.date = None
     is_reading_now: bool = False
+    own: bool = False
 
 
 def process_bookshelf_page(page_content: BeautifulSoup, skip_unread: bool = True) -> list[BookReview]:
@@ -150,6 +152,13 @@ def process():
     books.extend(parse_books(goodreads_currently_reading_first_page_url))
     books.extend(parse_books(goodreads_read_first_page_url))
 
+    owning_books = parse_books(goodreads_own_first_page_url, skip_unread=False)
+    for book in books:
+        for owning_book in owning_books:
+            if owning_book.title == book.title and owning_book.author == book.author:
+                book.own = True
+                break
+
     books.sort(key=lambda book: book.date_read or book.date_started, reverse=True)
     # Move currently reading books to the top
     books.sort(key=lambda book: book.is_reading_now, reverse=True)
@@ -170,6 +179,12 @@ def process():
 
     with open(bookcrossing_output_json_file, 'w', encoding='utf-8') as f:
         bookcrossing_books = parse_books(goodreads_bookcrossing_first_page_url, skip_unread=False)
+        for book in bookcrossing_books:
+            for owning_book in owning_books:
+                if owning_book.title == book.title and owning_book.author == book.author:
+                    book.own = True
+                    break
+
         books_dict = {"books": bookcrossing_books}
         json_str = json.dumps(books_dict, cls=EnhancedJSONEncoder, ensure_ascii=False, indent=2)
         f.write(json_str)

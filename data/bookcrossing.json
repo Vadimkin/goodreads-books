@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Лексикон таємних знань",
+      "author": "Тарас Прохасько",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297758544l/10470263.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5942904589",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Турист мимоволі",
       "author": "Anne Tyler",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589844813l/53441065.jpg",
@@ -8,7 +19,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Криза урбанізму. Чому міста роблять нас нещасними",
@@ -18,7 +30,19 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Основи. Графічний дизайн 04: Нові основи",
+      "author": "Ellen Lupton",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638443956l/59740596.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940641348",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Стіни в моїй голові. Жити з тривожністю і депресією",
@@ -28,7 +52,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Ковток повітря",
@@ -38,7 +63,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Шалено багаті азійці",
@@ -48,7 +74,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Що мій син має знати про світ",
@@ -58,7 +85,8 @@
       "rating": null,
       "date_started": "2023-10-26",
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Marketing 5.0: Technology for Humanity",
@@ -68,7 +96,8 @@
       "rating": 2,
       "date_started": "2023-10-07",
       "date_read": "2023-10-20",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
@@ -78,7 +107,8 @@
       "rating": 4,
       "date_started": "2023-10-03",
       "date_read": "2023-10-06",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Дзвінка. Українка, народжена в СРСР",
@@ -88,7 +118,8 @@
       "rating": 3,
       "date_started": "2023-09-10",
       "date_read": "2023-09-26",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Як рубали вишневий сад, або Довга дорога з Бад-Емсу",
@@ -98,7 +129,8 @@
       "rating": 5,
       "date_started": null,
       "date_read": "2023-08-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Одинадцять помідорів і один маленький",
@@ -108,7 +140,8 @@
       "rating": 4,
       "date_started": "2023-04-06",
       "date_read": "2023-04-06",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Ідентичність",
@@ -118,7 +151,19 @@
       "rating": 3,
       "date_started": "2023-07-21",
       "date_read": "2023-08-13",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "За Перекопом є земля",
+      "author": "Анастасія Левкова",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1679581311l/123510454.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5598427417",
+      "rating": 4,
+      "date_started": "2023-06-08",
+      "date_read": "2023-07-17",
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Наука сторітелінгу",
@@ -128,7 +173,8 @@
       "rating": 4,
       "date_started": "2023-04-24",
       "date_read": "2023-05-17",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Вихід зазвичай з іншого боку",
@@ -138,7 +184,8 @@
       "rating": 4,
       "date_started": "2023-04-07",
       "date_read": "2023-04-09",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Шістдесят оповідань",
@@ -148,7 +195,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Драбина",
@@ -158,7 +206,8 @@
       "rating": 4,
       "date_started": "2023-04-18",
       "date_read": "2023-04-23",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Незавершена війна. Історія протистояння України з Росією в 2014–2015 роках",
@@ -168,7 +217,8 @@
       "rating": 4,
       "date_started": "2023-01-11",
       "date_read": "2023-01-17",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Котик, Півник, Шафка",
@@ -178,7 +228,8 @@
       "rating": 5,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Від нуля до одиниці! Нотатки про стартапи, або як створити майбутнє",
@@ -188,7 +239,8 @@
       "rating": 4,
       "date_started": "2023-10-03",
       "date_read": "2023-10-03",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Каста. Витоки наших невдоволень",
@@ -198,7 +250,8 @@
       "rating": 3,
       "date_started": "2022-11-06",
       "date_read": "2022-11-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Моссад. Найвидатніші операції ізраїльської розвідки",
@@ -208,7 +261,8 @@
       "rating": 3,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Про що я говорю, коли говорю про біг",
@@ -218,7 +272,8 @@
       "rating": 4,
       "date_started": "2022-08-03",
       "date_read": "2022-08-04",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Ласощі для Медора",
@@ -228,7 +283,8 @@
       "rating": 4,
       "date_started": "2022-03-12",
       "date_read": "2022-03-13",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Don't Be Evil: How Big Tech Betrayed Its Founding Principles -- and All of Us",
@@ -238,7 +294,8 @@
       "rating": 3,
       "date_started": "2021-12-19",
       "date_read": "2022-01-09",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Spotify навиворіт. Як шведський стартап здійснив музичну революцію",
@@ -248,7 +305,19 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Шлях до несвободи: Росія, Європа, Америка",
+      "author": "Timothy Snyder",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602664618l/55667552.jpg",
+      "review_url": "https://www.goodreads.com/review/show/4088534900",
+      "rating": 4,
+      "date_started": "2021-07-25",
+      "date_read": "2021-08-07",
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Досить уже помилок. Як наші упередження впливають на наші рішення",
@@ -258,7 +327,8 @@
       "rating": 3,
       "date_started": "2021-08-07",
       "date_read": "2021-08-10",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "The Passion Economy: The New Rules for Thriving in the Twenty-First Century",
@@ -268,7 +338,8 @@
       "rating": null,
       "date_started": "2021-07-02",
       "date_read": "2021-11-21",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Чистий Agile: назад до основ",
@@ -278,7 +349,8 @@
       "rating": 4,
       "date_started": "2021-05-27",
       "date_read": "2021-06-05",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Постправда",
@@ -288,7 +360,19 @@
       "rating": 3,
       "date_started": "2021-04-10",
       "date_read": "2021-04-13",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Як ми вчимося. Чому мозок навчається краще, ніж машина… Поки що",
+      "author": "Станіслас Деан",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615648503l/57396951.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3887640312",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Чути українською",
@@ -298,7 +382,19 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Міста для людей",
+      "author": "Jan Gehl",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525873635l/40087162.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3808744730",
+      "rating": 4,
+      "date_started": "2021-01-31",
+      "date_read": "2021-02-14",
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Міста. Перші 6000 років",
@@ -308,7 +404,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Диванні експерти. Як необмежений доступ до інформації робить нас тупішими",
@@ -318,7 +415,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Все це триватиме далі",
@@ -328,7 +426,8 @@
       "rating": 3,
       "date_started": "2020-09-26",
       "date_read": "2020-09-26",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Передбачувана ірраціональність",
@@ -338,7 +437,8 @@
       "rating": 4,
       "date_started": "2020-10-05",
       "date_read": "2020-10-19",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Як нагодувати диктатора",
@@ -348,7 +448,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Економіка. Інструкція з використання",
@@ -358,7 +459,8 @@
       "rating": 2,
       "date_started": "2020-07-19",
       "date_read": "2020-08-12",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Зруйнована гавань",
@@ -368,7 +470,19 @@
       "rating": 3,
       "date_started": "2020-08-26",
       "date_read": "2020-09-09",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Амадока",
+      "author": "Sofia Andrukhovych",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589718109l/51476901.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3352394416",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Нормальні люди",
@@ -378,7 +492,8 @@
       "rating": 3,
       "date_started": "2020-09-26",
       "date_read": "2020-09-29",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Повсякденний сталінізм. Київ і кияни після Великої війни",
@@ -388,7 +503,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Нам усім пощастило",
@@ -398,7 +514,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Історія Airbnb. Як троє звичайних хлопців підірвали готельну індустрію",
@@ -408,7 +525,8 @@
       "rating": 4,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Як придумати ідею, якщо ви не Оґілві",
@@ -418,7 +536,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Чистий код: створення і рефакторінг за допомогою Agile",
@@ -428,7 +547,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Жизня",
@@ -438,7 +558,19 @@
       "rating": 4,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Найкоротша історія часу",
+      "author": "Stephen Hawking",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662114075l/30817508.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252446725",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Опанувати складність",
@@ -448,7 +580,19 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
+    },
+    {
+      "title": "Як ніколи не помилятися. Сила математичного мислення",
+      "author": "Jordan Ellenberg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500196698l/35686329.jpg",
+      "review_url": "https://www.goodreads.com/review/show/3252443305",
+      "rating": 3,
+      "date_started": "2017-08-01",
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
     },
     {
       "title": "Страх і відраза в Лас-Вегасі",
@@ -458,7 +602,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Zag. Найкращий посібник з брендингу",
@@ -468,7 +613,8 @@
       "rating": 4,
       "date_started": null,
       "date_read": "2017-12-01",
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "21 Lessons for the 21st Century",
@@ -478,7 +624,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Мистецтво подорожі",
@@ -488,7 +635,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Данина Каталонії",
@@ -498,7 +646,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     },
     {
       "title": "Який чудесний світ новий!",
@@ -508,7 +657,8 @@
       "rating": null,
       "date_started": null,
       "date_read": null,
-      "is_reading_now": false
+      "is_reading_now": false,
+      "own": true
     }
   ]
 }
