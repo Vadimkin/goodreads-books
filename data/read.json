@@ -1,15 +1,15 @@
 {
   "books": [
     {
-      "title": "Книга Комунікаційна стратегія в бізнесі. Як досягти максимуму в спілкуванні з аудиторією",
-      "author": "Вікторія Берещак",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696567083l/199292556.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5927666173",
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558516439l/44032731.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5781483293",
       "rating": null,
-      "date_started": "2023-10-24",
+      "date_started": "2023-11-01",
       "date_read": null,
       "is_reading_now": true,
-      "own": true
+      "own": false
     },
     {
       "title": "Історії про життя, смерть і нейрохірургію",
@@ -603,7 +603,7 @@
       "date_started": "2021-05-27",
       "date_read": "2021-06-05",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Экономика всего: Как институты определяют нашу жизнь",
