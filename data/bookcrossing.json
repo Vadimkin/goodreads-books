@@ -78,6 +78,17 @@
       "own": false
     },
     {
+      "title": "Основи. 10 ключів до реальності",
+      "author": "Frank Wilczek",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617976805l/57676313.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5940629952",
+      "rating": null,
+      "date_started": null,
+      "date_read": null,
+      "is_reading_now": false,
+      "own": false
+    },
+    {
       "title": "Що мій син має знати про світ",
       "author": "Fredrik Backman",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1694689466l/198972397.jpg",
@@ -130,7 +141,7 @@
       "date_started": null,
       "date_read": "2023-08-19",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Одинадцять помідорів і один маленький",
@@ -196,7 +207,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Драбина",
@@ -328,7 +339,7 @@
       "date_started": "2021-08-07",
       "date_read": "2021-08-10",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "The Passion Economy: The New Rules for Thriving in the Twenty-First Century",
@@ -405,7 +416,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Диванні експерти. Як необмежений доступ до інформації робить нас тупішими",
