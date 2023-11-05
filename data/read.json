@@ -284,7 +284,7 @@
       "date_started": "2023-01-11",
       "date_read": "2023-01-17",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Ми проти вас",
@@ -1917,7 +1917,7 @@
     {
       "title": "Одиночество в сети",
       "author": "Janusz Leon Wiśniewski",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697833633l/9895040.jpg",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699204184l/9895040.jpg",
       "review_url": "https://www.goodreads.com/review/show/3276027431",
       "rating": null,
       "date_started": "2012-02-01",

@@ -229,7 +229,7 @@
       "date_started": "2023-01-11",
       "date_read": "2023-01-17",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Котик, Півник, Шафка",
@@ -570,7 +570,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Найкоротша історія часу",
