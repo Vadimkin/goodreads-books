@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Twilight of Democracy: The Seductive Lure of Authoritarianism",
+      "author": "Anne Applebaum",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577773311l/50155421.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5955122961",
+      "rating": null,
+      "date_started": "2023-11-05",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Catch-22",
       "author": "Joseph Heller",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558516439l/44032731.jpg",
