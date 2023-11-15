@@ -101,7 +101,7 @@
     },
     {
       "title": "Marketing 5.0: Technology for Humanity",
-      "author": "Hermawan Kartajaya",
+      "author": "Philip Kotler",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608044725l/54711484.jpg",
       "review_url": "https://www.goodreads.com/review/show/5886632650",
       "rating": 2,
@@ -372,7 +372,7 @@
       "date_started": "2021-04-10",
       "date_read": "2021-04-13",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Як ми вчимося. Чому мозок навчається краще, ніж машина… Поки що",
