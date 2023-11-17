@@ -1,36 +1,25 @@
 {
   "books": [
     {
-      "title": "Twilight of Democracy: The Seductive Lure of Authoritarianism",
-      "author": "Anne Applebaum",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577773311l/50155421.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5955122961",
+      "title": "Forgotten Bastards of the Eastern Front: American Airmen behind the Soviet Lines and the Collapse of the Grand Alliance",
+      "author": "Serhii Plokhy",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552662579l/44069940.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5969410539",
       "rating": null,
-      "date_started": "2023-11-05",
+      "date_started": "2023-11-17",
       "date_read": null,
       "is_reading_now": true,
       "own": true
     },
     {
-      "title": "Catch-22",
-      "author": "Joseph Heller",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558516439l/44032731.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5781483293",
-      "rating": null,
-      "date_started": "2023-11-01",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": false
-    },
-    {
-      "title": "Історії про життя, смерть і нейрохірургію",
-      "author": "Henry Marsh",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1662550537l/62325483.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5083014075",
-      "rating": null,
-      "date_started": "2023-09-26",
-      "date_read": null,
-      "is_reading_now": true,
+      "title": "Twilight of Democracy: The Seductive Lure of Authoritarianism",
+      "author": "Anne Applebaum",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577773311l/50155421.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5955122961",
+      "rating": 3,
+      "date_started": "2023-11-05",
+      "date_read": "2023-11-17",
+      "is_reading_now": false,
       "own": true
     },
     {
