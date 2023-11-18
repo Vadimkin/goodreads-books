@@ -449,7 +449,7 @@
       "date_started": "2020-10-05",
       "date_read": "2020-10-19",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Як нагодувати диктатора",
@@ -548,7 +548,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Чистий код: створення і рефакторінг за допомогою Agile",
