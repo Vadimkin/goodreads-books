@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "All Marketers Are Liars: The Underground Classic That Explains How Marketing Really Works--and Why Authenticity Is the Best Marketing of All",
+      "author": "Seth Godin",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348332473l/13099528.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5931900866",
+      "rating": 4,
+      "date_started": "2023-12-04",
+      "date_read": "2023-12-10",
+      "is_reading_now": false,
+      "own": true
+    },
+    {
       "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
       "author": "Frede  Фредерік Бастіа Bastiat",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643293246l/60224345.jpg",
