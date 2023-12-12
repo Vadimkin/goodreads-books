@@ -108,7 +108,7 @@
       "date_started": "2023-10-07",
       "date_read": "2023-10-20",
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Що ми бачимо і чого не бачимо. Закон. Держава. Кляті гроші!",
@@ -636,7 +636,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Мистецтво подорожі",
@@ -647,7 +647,7 @@
       "date_started": null,
       "date_read": null,
       "is_reading_now": false,
-      "own": true
+      "own": false
     },
     {
       "title": "Данина Каталонії",
