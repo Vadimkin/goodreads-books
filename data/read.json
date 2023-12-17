@@ -1,17 +1,6 @@
 {
   "books": [
     {
-      "title": "Be Useful: Seven Tools for Life",
-      "author": "Arnold Schwarzenegger",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685351182l/125063314.jpg",
-      "review_url": "https://www.goodreads.com/review/show/5932279022",
-      "rating": null,
-      "date_started": "2023-11-24",
-      "date_read": null,
-      "is_reading_now": true,
-      "own": true
-    },
-    {
       "title": "Forgotten Bastards of the Eastern Front: An Untold Story of World War II",
       "author": "Serhii Plokhy",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613191108l/52842897.jpg",
@@ -20,6 +9,17 @@
       "date_started": "2023-11-17",
       "date_read": null,
       "is_reading_now": true,
+      "own": true
+    },
+    {
+      "title": "Be Useful: Seven Tools for Life",
+      "author": "Arnold Schwarzenegger",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1685351182l/125063314.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5932279022",
+      "rating": 3,
+      "date_started": "2023-11-24",
+      "date_read": "2023-12-16",
+      "is_reading_now": false,
       "own": true
     },
     {
