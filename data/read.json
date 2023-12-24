@@ -1,6 +1,17 @@
 {
   "books": [
     {
+      "title": "Lean Customer Development: Building Products Your Customers Will Buy",
+      "author": "Cindy Alvarez",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379533699l/18492257.jpg",
+      "review_url": "https://www.goodreads.com/review/show/5994728017",
+      "rating": null,
+      "date_started": "2023-12-23",
+      "date_read": null,
+      "is_reading_now": true,
+      "own": true
+    },
+    {
       "title": "Forgotten Bastards of the Eastern Front: An Untold Story of World War II",
       "author": "Serhii Plokhy",
       "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1613191108l/52842897.jpg",
