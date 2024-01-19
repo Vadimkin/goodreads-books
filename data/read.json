@@ -1,12 +1,12 @@
 {
   "books": [
     {
-      "title": "Дикий Захід Східної Європи",
-      "author": "Павел Казарин",
-      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638705804l/59757121.jpg",
-      "review_url": "https://www.goodreads.com/review/show/6157141383",
+      "title": "Colorless Tsukuru Tazaki and His Years of Pilgrimage",
+      "author": "Haruki Murakami",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533141634l/41022133.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6178974567",
       "rating": null,
-      "date_started": "2024-01-11",
+      "date_started": "2024-01-17",
       "date_read": null,
       "is_reading_now": true,
       "own": true
@@ -31,6 +31,17 @@
       "date_started": "2023-11-17",
       "date_read": null,
       "is_reading_now": true,
+      "own": true
+    },
+    {
+      "title": "Дикий Захід Східної Європи",
+      "author": "Павел Казарин",
+      "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638705804l/59757121.jpg",
+      "review_url": "https://www.goodreads.com/review/show/6157141383",
+      "rating": 3,
+      "date_started": "2024-01-11",
+      "date_read": "2024-01-17",
+      "is_reading_now": false,
       "own": true
     },
     {
